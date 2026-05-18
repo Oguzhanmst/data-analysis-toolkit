@@ -1,6 +1,0 @@
-order_id,customer_id,product,category,quantity,unit_price,order_date,status
-1001,1,Mouse,Electronics,2,500,2025-01-05,Delivered
-1002,2,Chair,Home,1,1200,2025-01-12,Delivered
-1003,1,T-Shirt,Fashion,3,300,2025-02-03,Returned
-1004,3,Keyboard,Electronics,1,750,2025-02-10,Delivered
-1005,4,Shampoo,Beauty,2,200,2025-03-01,Cancelled
